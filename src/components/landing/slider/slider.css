@@ -1,0 +1,79 @@
+.shikilia{
+   padding: 50px;
+   /* margin-bottom: 50px; */
+   background-color: #02091b;
+   
+ }
+     div.card1 {
+       margin-left: 10px;
+       margin-right: 0px;
+       background-color: #0E1525;
+       background-repeat: no-repeat;
+       width: 300px !important; 
+       height: 350px !important;
+       border-radius: 10px;
+       box-shadow: 0px 0px 15px -8px black;
+       display: flex;
+       flex-direction: column;
+       padding: 15px;
+       transition: all 1s ease;
+       color: white;
+     }
+     #c3{background-image:url(../assets/frame-127-1.png);}
+     #c2{background-image: url(../assets/frame-13-1.png);}
+     #c1{background-image: url(../assets/frame-15-1.png);}
+
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+ 
+          
+.centerdiv {
+  display: flex; 
+  height: 270px;
+  border-radius: 10px;
+  /* background-color: rgba(0, 0, 0, 0);  */
+  background-size: cover;
+
+
+}
+
+.bottoms {
+  display: flex;
+  justify-content: left;
+  margin: 10px 0px 0px 0px;
+  
+}
+
+      
+  .butsts{
+    width: 150px;
+    height: 35px;
+    background-color: rgb(241, 21, 21);
+    border-radius: 10px;
+    color: white;
+    border: none;
+  }
+
+  .pilider{
+    margin-bottom: 50px;
+  }
+
+  div.card12 {
+    margin-left: 10px;
+    margin-right: 0px;
+    background-color: #0E1525;
+    background-repeat: no-repeat;
+    width: 400px !important; 
+    height: 110px !important;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px -8px black;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    transition: all 1s ease;
+    color: white;
+    
+  }
